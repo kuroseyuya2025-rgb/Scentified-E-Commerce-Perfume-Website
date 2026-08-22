@@ -917,5 +917,3 @@ If you find this project useful or interesting, consider giving the repository a
 <p align="center">
   Built with PHP, MySQL, HTML, CSS & JavaScript.
 </p>
-```
-
